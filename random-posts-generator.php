@@ -2,8 +2,8 @@
 /*
 Plugin Name: Random Posts Generator
 Description: Generates a specified number of posts with random titles and content when the plugin is activated.
-Version: 1.1
-Author: Your Name
+Version: 1.0
+Author: Sam Zadworny
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
